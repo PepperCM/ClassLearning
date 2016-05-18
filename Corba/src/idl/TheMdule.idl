@@ -1,0 +1,7 @@
+// 声明CORBA IDL模块  
+module RandomInteger{  
+    // 声明接口  
+    interface RandomInteger{  
+    	long next();  
+    };  
+}; 

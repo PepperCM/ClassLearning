@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Feb 09 18:33:37 CST 2016
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\Pepper\\Desktop\\Work_fat.jar
+manifest.mergeall=true
+manifest.mainclass=FileSolve.Control
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
