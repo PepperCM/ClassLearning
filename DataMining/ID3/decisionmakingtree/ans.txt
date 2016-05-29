@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root> 
+  <rainy> 
+    <false> 
+      <mild> 
+        <normal>yes</normal>  
+        <high>yes</high> 
+      </mild>  
+      <cool>yes</cool> 
+    </false>  
+    <true> 
+      <mild>no</mild>  
+      <cool>no</cool> 
+    </true> 
+  </rainy>  
+  <overcast> 
+    <mild>yes</mild>  
+    <cool>yes</cool>  
+    <hot> 
+      <normal>yes</normal>  
+      <high>yes</high> 
+    </hot> 
+  </overcast>  
+  <sunny> 
+    <normal> 
+      <mild>yes</mild>  
+      <cool>yes</cool> 
+    </normal>  
+    <high> 
+      <mild>no</mild>  
+      <hot> 
+        <false>no</false>  
+        <true>no</true> 
+      </hot> 
+    </high> 
+  </sunny> 
+</root>
